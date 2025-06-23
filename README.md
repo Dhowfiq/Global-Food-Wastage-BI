@@ -1,52 +1,42 @@
-Global Food Wastage Analysis with Power BI
-A comprehensive Power BI dashboard project for exploratory data analysis (EDA) of global food wastage data, highlighting key trends, metrics, and visualizations to support social and economic sustainability efforts.
+Global Food Wastage Analysis Dashboard (Power BI)
+Analyze and visualize worldwide food wastage trends using Power BI.
+This project helps you explore food waste by category, country, and year, and understand its economic and social impact.
 
-Project Overview
-This project leverages Power BI to analyze and visualize global food wastage data from 2018 to 2024. The dashboard enables users to explore food waste trends by category, region, and year, providing actionable insights into economic loss, population impact, and waste distribution. The dataset, sourced from Kaggle, includes metrics such as total wastage (tons), economic loss (million USD), average waste per capita, population (millions), and household waste percentage.
+📊 Project Highlights
+Interactive Dashboard: Filter by food category, country, and year (2018–2024)
 
-Features
-Key Metrics (KPIs):
+Key Metrics:
 
-Average waste per capita
+Total Waste (tons)
 
-Total economic loss (in millions)
+Economic Loss (million USD)
 
-Total population (in millions)
+Population (millions)
 
-Total waste (in tons)
+Average Waste per Capita
 
-Household waste percentage
+Household Waste Percentage
 
-Interactive Filters:
+Visuals:
 
-Food Category (e.g., Bakery, Beverages, Dairy, etc.)
+KPI Cards
 
-Country
+Donut Chart (Waste by Category)
 
-Year (2018–2024, with range selection)
+Clustered Column & Line Chart (Population & Household Waste)
 
-Visualizations:
+Filled Map (Economic Loss by Country)
 
-KPI cards for quick metric overviews
+Scatter Plot (Waste vs Economic Loss)
 
-Donut chart for waste by food category
+Modern Design:
 
-Clustered column and line chart for population and household waste by category
+Custom color palette
 
-Filled map for country-wise economic loss (with conditional color formatting)
+Clean layout with borders, shadows, and rounded corners
 
-Scatter plot for relationship between total waste and economic loss
-
-Custom Styling:
-
-Themed color palettes
-
-Visual borders, shadows, and rounded corners for enhanced readability
-
-Responsive design for slicers and filters
-
-Dataset
-Source: Kaggle - Global Food Wastage Dataset
+📁 Dataset
+Source: Kaggle/Colorstech Global Food Wastage Dataset
 
 Format: CSV
 
@@ -56,7 +46,7 @@ Country
 
 Year
 
-Food Category (e.g., Fruits & Vegetables, Prepared Foods, etc.)
+Food Category
 
 Total Wastage (tons)
 
@@ -68,40 +58,34 @@ Population (millions)
 
 Household Waste Percentage
 
-How to Use
-Download the Dataset
-
-Obtain the CSV file from the provided link.
+🚀 Quick Start
+Download the dataset
+Get the CSV here
 
 Open Power BI Desktop
 
-Load the CSV dataset and verify column alignment.
+Load the dataset
+
+Click Home > Get Data > Text/CSV
+
+Select the downloaded CSV file
 
 Build the Dashboard
 
-Add a title and theme using Power BI’s formatting options.
+Add a title and set a color theme
 
-Create KPI cards for key metrics.
+Create KPI cards for the main metrics
 
-Add slicers for food category, country, and year.
+Add slicers for Year, Country, and Food Category
 
-Visualize data using donut charts, clustered column/line charts, filled maps, and scatter plots.
+Add visuals: Donut Chart, Clustered Column/Line Chart, Filled Map, Scatter Plot
 
-Use conditional formatting for map visualization to highlight economic loss intensity by country.
+Style visuals with borders, shadows, and rounded corners
 
-Enable tooltips for detailed pop-up insights on hover.
+Use conditional formatting on the map for economic loss
 
-Customize and Explore
+Explore!
 
-Adjust visuals, colors, and filters to suit your analysis needs.
+Filter by category, country, or year
 
-Save your Power BI file to retain progress.
-
-Purpose
-This dashboard project aims to:
-
-Raise awareness about global food wastage.
-
-Support data-driven decisions for reducing food waste.
-
-Highlight economic and social impacts across regions and categories
+Hover over visuals for tooltips and deeper insights
