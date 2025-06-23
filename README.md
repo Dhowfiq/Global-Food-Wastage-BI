@@ -1,71 +1,107 @@
-🌎🍽️ Global Food Data Analysis Dashboard
-📊 Project Overview
-This project provides an exploratory data analysis (EDA) of global food data using Power BI. The dashboard delivers deep insights into global food production, consumption, and trends, enabling users to explore metrics like food availability, nutritional content, and regional comparisons.
+Global Food Wastage Analysis with Power BI
+A comprehensive Power BI dashboard project for exploratory data analysis (EDA) of global food wastage data, highlighting key trends, metrics, and visualizations to support social and economic sustainability efforts.
 
-🚀 Key Features
-✅ Production & Consumption Trends: Visualized production and consumption of various food categories globally and by country.
+Project Overview
+This project leverages Power BI to analyze and visualize global food wastage data from 2018 to 2024. The dashboard enables users to explore food waste trends by category, region, and year, providing actionable insights into economic loss, population impact, and waste distribution. The dataset, sourced from Kaggle, includes metrics such as total wastage (tons), economic loss (million USD), average waste per capita, population (millions), and household waste percentage.
 
-✅ Nutritional Analysis: Explored caloric value, protein, and fat content across different food types.
+Features
+Key Metrics (KPIs):
 
-✅ Country Comparisons: Analyzed food production and supply across regions and countries.
+Average waste per capita
 
-✅ Interactive Filters: Slicers for country, food category, and time to dynamically explore insights.
+Total economic loss (in millions)
 
-✅ Key Indicators: Tracked KPIs such as total production, per capita availability, and food balance sheets.
+Total population (in millions)
 
-🗄️ Dataset Overview
-The dataset includes fields like:
+Total waste (in tons)
+
+Household waste percentage
+
+Interactive Filters:
+
+Food Category (e.g., Bakery, Beverages, Dairy, etc.)
 
 Country
 
-Food Item
+Year (2018–2024, with range selection)
+
+Visualizations:
+
+KPI cards for quick metric overviews
+
+Donut chart for waste by food category
+
+Clustered column and line chart for population and household waste by category
+
+Filled map for country-wise economic loss (with conditional color formatting)
+
+Scatter plot for relationship between total waste and economic loss
+
+Custom Styling:
+
+Themed color palettes
+
+Visual borders, shadows, and rounded corners for enhanced readability
+
+Responsive design for slicers and filters
+
+Dataset
+Source: Kaggle - Global Food Wastage Dataset
+
+Format: CSV
+
+Columns:
+
+Country
 
 Year
 
-Production
+Food Category (e.g., Fruits & Vegetables, Prepared Foods, etc.)
 
-Consumption
+Total Wastage (tons)
 
-Calories
+Economic Loss (million USD)
 
-Protein
+Average Waste Per Capita
 
-Fat
+Population (millions)
 
-Food Supply Quantity
+Household Waste Percentage
 
-...and other global food-related attributes.
+How to Use
+Download the Dataset
 
+Obtain the CSV file from the provided link.
 
+Open Power BI Desktop
 
-📂 Files
-eda on global food.pbix: The full Power BI report file.
+Load the CSV dataset and verify column alignment.
 
-README.md: Documentation and project details.
+Build the Dashboard
 
-💻 How to Use
-Open the .pbix file in Power BI Desktop.
+Add a title and theme using Power BI’s formatting options.
 
-Refresh or update the data source if needed.
+Create KPI cards for key metrics.
 
-Use filters and slicers to interactively explore the data.
+Add slicers for food category, country, and year.
 
-Export visuals or reports as required.
+Visualize data using donut charts, clustered column/line charts, filled maps, and scatter plots.
 
-✨ Tools & Technologies
-Power BI Desktop
+Use conditional formatting for map visualization to highlight economic loss intensity by country.
 
-DAX (Data Analysis Expressions)
+Enable tooltips for detailed pop-up insights on hover.
 
-Power Query
+Customize and Explore
 
-Data Visualization & EDA
+Adjust visuals, colors, and filters to suit your analysis needs.
 
-🔍 Insights & Results
-Identified top food-producing and consuming countries for major food items.
+Save your Power BI file to retain progress.
 
-Analyzed global nutrition trends, highlighting regions with calorie deficits or surpluses.
+Purpose
+This dashboard project aims to:
 
-Discovered production patterns over time and their relationship to population changes.
+Raise awareness about global food wastage.
 
-Gained actionable insights into food security and supply chain gaps.# Global-Food-Wastage-BI
+Support data-driven decisions for reducing food waste.
+
+Highlight economic and social impacts across regions and categories
