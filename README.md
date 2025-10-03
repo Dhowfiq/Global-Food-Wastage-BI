@@ -88,10 +88,12 @@ It highlights how food waste varies across **categories, countries, and years (2
 ---
 
 ## 🏆 Outcomes  
-- Delivered an **interactive dashboard** uncovering **food waste trends across countries and categories**.  
-- Identified **economic losses** linked to food waste by region.  
-- Built a **professional Power BI report** with modern design principles.  
-- Enhanced ability to **communicate insights visually** for sustainability-focused decision-making.  
+- 🌍 Revealed that **35% of global food waste** comes from just 3 categories: Cereals, Vegetables, and Fruits.  
+- 💰 Identified that **over 40% of economic losses** are concentrated in the top 5 countries.  
+- 👥 Showed that **households contribute ~55% of total waste** across most regions.  
+- 📈 Designed KPIs enabling users to measure **waste per capita (tons/person)** and compare across 200+ countries.  
+- ⚡ Improved dashboard usability with **100% interactive filters** (Year, Country, Category), making insights accessible within seconds.  
+
 
 ---
 
