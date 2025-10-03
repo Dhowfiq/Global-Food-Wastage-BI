@@ -80,7 +80,7 @@ It highlights how food waste varies across **categories, countries, and years (2
 ## 📸 Dashboard Preview  
 
 <p align="center">
-  <img src="screenshots/food_wastage_dashboard.png" width="800"/>
+  <img src="https://github.com/Dhowfiq/Global-Food-Wastage-BI/blob/main/Screenshot%202025-06-23%20174148.png" width="800"/>
   <br>
   <i>Interactive Global Food Wastage Dashboard built in Power BI</i>
 </p>  
